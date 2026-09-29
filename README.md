@@ -67,7 +67,7 @@ Through this project, I practiced:
 
 ## How to run 
 
-- When running the code , the user will get Resturant menu option which has a menu of items.
+- When running the code , the user will get Restaurant menu option which has a menu of items.
 - Then , it will ask the user to enter the food items which he wants to order.
 - Next , it will ask if user want to see cart and add or remove items from cart. Based on the input from the user , it will do the required calculations and show the output . 
 >**Note:** The user will be asked to enter (y/n) after each iteration , he should enter y if he wants to make changes to the cart , else n .
