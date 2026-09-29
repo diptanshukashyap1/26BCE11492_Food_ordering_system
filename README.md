@@ -11,7 +11,7 @@ An Online food ordering System built using Python. This project is an Online foo
 
 ## Technologies Used
 
-- Python 3
+- Python 3 
 
 ## How to access the code
 
@@ -64,18 +64,15 @@ Through this project, I practiced:
 - Using lists to manage data
 - Implementing conditional statements and loops
 
+
 ## How to run 
 
-- When running the code , the user will get multiple options , such as Displaying all  , Searching for books , etc.
-- Its recommended that the user goes through the option one by one .
-- When choosing 1 , the interpreter will show all pre-defined books in the library i.e. 8 books .
-- Next , the user will be asked to enter "Continue", after entering "Continue" ,the user should choose 2 .
->**Note:** The user will be asked to enter CONTINUE after each iteration. 
--  That will allow user to search the availability of books , to make sure if the books are in the library or are issued to someone else .
-> **Note:** To do that , user should enter the book name that was previously displayed when the user chose 1 .
-- Accordingly , user can use 3 and 4 to borrow and return new books from the library , based on its Book ID .
-- Now , 5 is an option meant for the librarian to add new books into the library . Choosing 5 , user will be asked how many new books are to be added and the Book ID and Book name of the new books to be added.
-- This whole process is in a looping statement (while) and hence option 6 lets the user exit the library and a "Thanks for using" Message is displayed.
+- When running the code , the user will get Resturant menu option which has a menu of items.
+- Then , it will ask the user to enter the food items which he wants to order.
+- Next , it will ask if user want to see cart and add or remove items from cart. Based on the input from the user , it will do the required calculations and show the output . 
+>**Note:** The user will be asked to enter (y/n) after each iteration , he should enter y if he wants to make changes to the cart , else n .
+- Next , It will print the bill , and based on the bill amount , it will provide the user with 2 discount options . 
+- Overall , the program will display the final items, quantities, total expense, and applicable discount.
 
 ## Author
 
