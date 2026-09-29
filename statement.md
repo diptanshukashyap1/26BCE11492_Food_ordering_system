@@ -14,7 +14,7 @@ Students who are learning Python programming .
 
 ## Project Flow
 
-- Display the Resturant menu.
+- Display the Restaurant menu.
 - Show the available food items.
 - Ask the user how many food items they want to purchase.
 - Take the serial number of each selected item(s).
